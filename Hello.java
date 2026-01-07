@@ -5,6 +5,7 @@ public class Hello {
         System.out.println("hi there");
 =======
         System.out.println("this is a git demo ");
+        System.out.println("project");
 
 >>>>>>> main
     }
