@@ -3,5 +3,7 @@ public class Hello {
         System.out.println("hello world");
         System.out.println("hi there");
         System.out.println("this is a git demo ");
+        int i=0;
+        
     }
 }
