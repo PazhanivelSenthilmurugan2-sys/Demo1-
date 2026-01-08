@@ -7,6 +7,6 @@ public class Hello {
         System.out.println("this is a git demo ");
 
 >>>>>>> main
-    hi;
+
     }
 }
