@@ -6,7 +6,8 @@ public class Hello {
 int n=5;
         for(int i=0;i<=5;i++)
         {
-            System.out.println(i);
+            System.out.print(i);
+
         }
     }
 }
