@@ -3,6 +3,10 @@ public class Hello {
         System.out.println("hello world");
         System.out.println("hi there");
         System.out.println("this is a git demo ");
-int i=2;
+int n=5;
+        for(int i=0;i<=5;i++)
+        {
+            System.out.println(i);
+        }
     }
 }
